@@ -9,6 +9,7 @@ class Commons {
   static const gradientBackgroundColorEnd = const Color(0xFFf7892b);
   static const gradientBackgroundColorWhite = const Color(0xFFf7892b);
   static const mainFlutter45 = const Color(0xFFF9434D);
+  static const appBarBackGroundColor = const Color(0xFF252632);
 
   static Widget titleFlutter45(BuildContext context) {
     return RichText(
